@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1001 Pattes (1080p)" tvg-logo="https://disneyhd.tk/images/small/1001_pattes.jpg" group-title="FILMS Disney",1001 Pattes (1080p)
+https://disneyhdsource.ml/mp4/1001_Pattes.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1001 Pattes (720p)" tvg-logo="https://disneyhd.tk/images/small/1001_pattes.jpg" group-title="FILMS Disney",1001 Pattes (720p)
+https://disneyhdsource.ml/mp4/1001_Pattes.mp4
